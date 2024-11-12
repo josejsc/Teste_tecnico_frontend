@@ -1,7 +1,4 @@
----
-title: "Documentação do Projeto de Dashboard com Next.js e TypeScript"
-output: html_document
----
+
 
 ## Introdução
 
